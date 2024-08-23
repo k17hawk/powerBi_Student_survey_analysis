@@ -8,6 +8,7 @@ If 0<TAP<35000, then records should be in red colour </br>
 If 35000<=TAP<60000, then records should be in yellow colour </br>
 If TAP>=60000, then records should be in Blue colour </br>
 Matrix Visualization: The matrix visualization displays the amount spent on outdoor sports across different ages and ‘Store setting’. The amount spent in total outdoor sports is colour-formatted. </br>
+<img src = "https://github.com/k17hawk/powerBi_Student_survey_analysis/blob/main/Screenshot%20(3).png"/>
 
 Funnel Chart: The funnel chart displays the total amount of purchase by ‘Store setting’. The data labels are shown as Percentage of First. </br>
 
